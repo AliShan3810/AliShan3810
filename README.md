@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I’m Ali Shan
 
-<!--
-**AliShan3810/AliShan3810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🧑‍💻 Senior React Native & React Developer**  
+With **6+ years** of experience building production-grade mobile & web apps using **React Native**, **React**, and modern JavaScript frameworks.  
+Passionate about creating user-friendly mobile experiences and integrating cutting-edge AI assistants into applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tech Stack
+
+| Area | Technologies |
+|---|---|
+| Frontend | React, React Native, Redux / MobX, Next.js |
+| Mobile | Expo, Native Modules, Navigation, Push Notifications |
+| Backend / APIs | Node.js, Express, REST / GraphQL |
+| AI Integration | OpenAI API, ChatGPT Assistant, OCR |
+| Testing & Tooling | Jest, React Testing Library, ESLint, Prettier |
+| Databases & Storage | Postgresql, Firebase, SQLite |
+| DevOps / CI-CD | GitHub Actions, Docker, Firebase Hosting / Functions |
+| Others | TypeScript, JavaScript (ES6+), Git, Agile workflows |
+
+---
+
+## 🚀 Featured Projects & Experience
+
+### 📱 Mobile Apps
+- **Fofo App**  
+  A social lifestyle app built with **React Native** featuring custom UI, push notifications, and real-time updates.  
+  *Contributed to performance optimization, deep linking, and scalable navigation structure.*
+
+- **ShopBae App**  
+  An e-commerce mobile app built with **React Native + Redux**.  
+  *Implemented product catalog, cart/checkout flow, and integrated secure payments.*  
+
+### 🤖 AI & Assistant Development
+- **OpenAI Assistant Integrations**  
+  - Built custom assistants for **task automation, recipe guidance, and text extraction from images**.  
+  - Integrated **ChatGPT API** into mobile apps with search, Q&A, and personalized workflows.  
+  - Created hybrid solutions combining **React Native UIs** with **AI-powered backends**.  
+
+---
+
+## 🌱 Currently Learning & Interests
+
+- Advanced **React Native performance optimization**  
+- **Serverless backends**, **GraphQL**, and microservices  
+- Exploring **AI-driven mobile apps** (OpenAI, OCR)  
+- Open source contributions & community engagement  
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: alishan3810@gmail.com  
+- 🔗 LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/yourprofile)  
+- 🌐 Portfolio: [yourdomain.com](https://alishan3810.github.io/)  
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House  
+
+Thanks for visiting my profile! 👋  
