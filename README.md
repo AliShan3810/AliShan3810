@@ -21,16 +21,7 @@ Passionate about creating user-friendly mobile experiences and integrating cutti
 
 ---
 
-## 🚀 Featured Projects & Experience
-
-### 📱 Mobile Apps
-- **Fofo App**  
-  A social lifestyle app built with **React Native** featuring custom UI, push notifications, and real-time updates.  
-  *Contributed to performance optimization, deep linking, and scalable navigation structure.*
-
-- **ShopBae App**  
-  An e-commerce mobile app built with **React Native + Redux**.  
-  *Implemented product catalog, cart/checkout flow, and integrated secure payments.*  
+## 🚀 Experience
 
 ### 🤖 AI & Assistant Development
 - **OpenAI Assistant Integrations**  
@@ -52,8 +43,8 @@ Passionate about creating user-friendly mobile experiences and integrating cutti
 ## 📫 Let’s Connect
 
 - 📧 Email: alishan3810@gmail.com  
-- 🔗 LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/yourprofile)  
-- 🌐 Portfolio: [yourdomain.com](https://alishan3810.github.io/)  
+- 🔗 LinkedIn: (www.linkedin.com/in/alishan3810)
+- 🌐 Portfolio: (https://alishan3810.github.io/)  
 
 ---
 
