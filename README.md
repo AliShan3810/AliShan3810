@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ali Shan
 
 **🧑‍💻 Senior React Native & React Developer**  
-With **6+ years** of experience building production-grade mobile & web apps using **React Native**, **React**, and modern JavaScript frameworks.  
+With **7 years** of experience building production-grade mobile & web apps using **React Native**, **React**, and modern JavaScript frameworks.  
 Passionate about creating user-friendly mobile experiences and integrating cutting-edge AI assistants into applications.
 
 ---
